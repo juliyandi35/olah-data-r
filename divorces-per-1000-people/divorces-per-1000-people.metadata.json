@@ -1,0 +1,46 @@
+{
+  "chart": {
+    "title": "Divorce rate",
+    "citation": "OECD (2024)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/divorces-per-1000-people?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "United Kingdom",
+      "United States",
+      "Singapore",
+      "Norway",
+      "Peru",
+      "Chile",
+      "Mexico",
+      "Turkey",
+      "South Korea",
+      "Ireland"
+    ]
+  },
+  "columns": {
+    "Crude divorce rate (divorces per 1,000 people)": {
+      "titleShort": "Crude divorce rate (divorces per 1,000 people)",
+      "titleLong": "Crude divorce rate (divorces per 1,000 people)",
+      "descriptionShort": "Number of divorces during a given year per 1,000 people.",
+      "unit": "per 1,000 people",
+      "timespan": "1960-2020",
+      "type": "Numeric",
+      "owidVariableId": 1009221,
+      "shortName": "divorce_rate",
+      "lastUpdated": "2024-12-30",
+      "nextUpdate": "2025-12-30",
+      "citationShort": "OECD (2024) – processed by Our World in Data",
+      "citationLong": "OECD (2024) – processed by Our World in Data. “Crude divorce rate (divorces per 1,000 people)” [dataset]. OECD, “OECD Family Database” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1009221.metadata.json"
+    },
+    "1009221-annotations": {
+      "titleShort": "1009221-annotations",
+      "titleLong": "1009221-annotations",
+      "type": "SeriesAnnotation",
+      "citationShort": " – processed by Our World in Data",
+      "citationLong": " – processed by Our World in Data. “1009221-annotations” [dataset].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/undefined.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-03-25",
+  "activeFilters": {}
+}
